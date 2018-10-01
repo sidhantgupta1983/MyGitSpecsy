@@ -3,6 +3,6 @@ hey today we are learning Git...Lets see how it goes on!!!
 
 user.name anda user.email to be set
 
-change 1
+--> Change 1
 
-change 2
+--> Change 2
